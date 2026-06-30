@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ein Himmel voller Geigen, wenn du mit mir gehst.. yeah..
+> Dein Blick ist so icy, spürst du, wie der Wind weht?
+> Late Night, City Lights, Vibe ist auf Maximum
+> Du bist mein Fokus, Babe, ich dreh die ganze Stadt hier um
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
