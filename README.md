@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-himmel-voller-geigen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ein Himmel voller Geigen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-himmel-voller-geigen/) |
+| **Get License** | [Music Rights & Licensing for Ein Himmel voller Geigen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-himmel-voller-geigen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ce84ed307d6a10e6fa4c14c3c9fe6598c7524b4a8e1c503f713a54ce1be6bde9` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
